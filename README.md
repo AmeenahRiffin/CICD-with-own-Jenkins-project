@@ -49,20 +49,13 @@ I decided to set up Jenkins on my Windows machine first to become familiar with 
 
 I then installed the Jenkins executeable from the Jenkins website and used that downloaded Java as part of the installation. Jenkins only appears to accept Java 17 and 21. 
 
-![alt text](images/image.png)
-
-
 
 Once Jenkins was installed, I had to enable it by going to cmd.exe and typing in the following command: `.\jenkins.exe start`
-
-![alt text](images/image-1.png)
 
 
 Once this was done, I started Jenkins and ran through the installation steps. 
 
 I navigated to the URL on port 8080 and was greeted with the main dashboard. As part of the instructions I was informed to not set up an agent node so I left it on the default in-built node.
-
-![alt text](images/image-2.png)
 
 
 ## Setting up Jenkins (On Ubuntu)
